@@ -1,0 +1,34 @@
+[
+  {
+    "Nombre": "Tu nombre envenena mis sueños",
+    "FechaDeLanzamiento": 1996,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 118
+  },
+  {
+    "Nombre": "Your Name",
+    "FechaDeLanzamiento": 2015,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 22
+  },
+  {
+    "Nombre": "Once Upon a Time in Mexico",
+    "FechaDeLanzamiento": 2003,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 102
+  },
+  {
+    "Nombre": "Shrek",
+    "FechaDeLanzamiento": 2001,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 90
+  }
+]
